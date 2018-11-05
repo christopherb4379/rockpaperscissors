@@ -1,9 +1,14 @@
+body {
+  margin: 0px;
+  background-color: black;
+  color: white;
+}
+
 .row{
   text-align:center;
   
 }
 #choices{
   display:flex;
-  justify-content:space-between;
-  
+  justify-content:space-around;
 }

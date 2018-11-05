@@ -9,3 +9,6 @@
 
 // DOCUMENT READY FUNCTION BELOW
 
+$("#go").click(function(){
+    var "input" = $("#userChoice").val();
+});
